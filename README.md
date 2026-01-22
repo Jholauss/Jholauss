@@ -8,6 +8,6 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/jholauss_/">	
 		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="">
 			<img src="https://img.icons8.com/?size=40&id=ddJXF_L1PvL_&format=png&color=000000" ></a>
 </p>
